@@ -1,1 +1,22 @@
-
+ body{
+        margin-top: 50px;
+        margin-left: 200px;
+        margin-right: 200px;
+        font-style: Times New Roman;
+        text-align: left;
+        background: linear-gradient (to right, lightpink, white, skyblue);
+      }
+      nav{
+        margin-top: 20px;
+        text-align: right;
+        text-decoration: none;
+        color: purple;
+      }
+      img{
+        max-width: 300px;
+        height: auto;
+        border-radius: 90px;
+        border: solid white 1px;
+        filter: grayscale(70%);
+        float: right;
+      }
