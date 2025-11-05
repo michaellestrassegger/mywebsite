@@ -28,13 +28,14 @@ img{
 .button{
       font-size: 25px;
       border: 2px solid darkblue;
-      background-color: lightblue;
+      background-color: linear-gradient(to right, lightpink, white, skyblue);
       padding: 5px;
+      margin: 20px;
     }
 
 .button:hover{
       transform: scale(1.1);
-      background-color: yellow;
+      background-color: lightpink;
     }
 
     .own{
