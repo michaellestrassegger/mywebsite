@@ -6,17 +6,31 @@
         text-align: left;
         background: linear-gradient (to right, lightpink, white, skyblue);
       }
-      nav{
+nav{
         margin-top: 20px;
         text-align: right;
         text-decoration: none;
         color: purple;
       }
-      img{
+img{
         max-width: 300px;
         height: auto;
         border-radius: 90px;
         border: solid white 1px;
         filter: grayscale(70%);
         float: right;
+        padding: 40px;
       }
+.button{
+      font-size: 25px;
+      border: solid darkblue;
+      background-color: lightblue;
+      padding: 5px;
+    }
+.button:hover{
+      transform: scale(1.1);
+      background-color: yellow;
+    }
+    .own{
+      text-align: left;
+    }
