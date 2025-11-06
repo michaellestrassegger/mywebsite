@@ -42,6 +42,6 @@ img{
 div{
  margin: 20px 200px;
 }
-table{
+table, th, thead, tfoot{
  border: 2px solid purple;
 }
