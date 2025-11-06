@@ -13,6 +13,7 @@ nav{
         text-align: right;
         text-decoration: none;
         color: purple;
+        font-size: 20px;
       }
 
 img{
@@ -45,3 +46,4 @@ div{
 table, th, thead, tfoot{
  border: 2px solid purple;
 }
+
