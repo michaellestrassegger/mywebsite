@@ -22,13 +22,13 @@ img{
         border: solid white 1px;
         filter: grayscale(70%);
         float: right;
-        padding: 40px;
+        padding: 20px;
         margin: 10px;
       }
 
 .button{
       font-size: 25px;
-      border: 2px solid darkblue;
+      border: 5px solid darkmagenta;
       background-color: linear-gradient(to left, lightpink, white, skyblue);
       padding: 5px;
       margin: 20px;
