@@ -28,7 +28,7 @@ img{
 .button{
       font-size: 25px;
       border: 2px solid darkblue;
-      background-color: linear-gradient(to right, lightpink, white, skyblue);
+      background-color: linear-gradient(to left, lightpink, white, skyblue);
       padding: 5px;
       margin: 20px;
     }
@@ -38,10 +38,9 @@ img{
       background-color: lightpink;
     }
 
-    .own{
-      text-align: left;
-    }
-
 div{
  margin: 20px 200px;
+}
+table{
+ border: 1px solid;
 }
