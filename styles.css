@@ -47,11 +47,7 @@ table, th, thead, tfoot{
  border: 2px solid purple;
 }
 
-a{
- text-decoration: none;       
- color: pink;
-      }
 a:hover, a:clicked{
-  color: lightpink;
+  color: rebeccapurple;
   text-decoration: none;     
       }
