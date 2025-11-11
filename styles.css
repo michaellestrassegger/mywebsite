@@ -13,7 +13,7 @@ nav{
         text-align: right;
         text-decoration: none;
         color: purple;
-        font-size: 20px;
+        font-size: 3em;
       }
 
 img{
@@ -51,5 +51,3 @@ a:hover, a:clicked{
   color: purple;
   text-decoration: none;     
       }
-svg{
- font-size: 3em;
