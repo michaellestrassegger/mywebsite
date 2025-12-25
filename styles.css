@@ -44,7 +44,7 @@ div{
  margin: 20px 200px;
 }
 table, th, thead, tfoot{
- border: 2px solid purple;
+ background-color: 	#dda0dd;
 }
 
 a:hover, a:clicked{
